@@ -1,0 +1,26 @@
+body {
+    background-color: blueviolet;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+#bigboi {
+    text-align: center;
+    font-size: 150px;
+    color: deepskyblue;
+}
+
+#ickleboi {
+    text-align: center;
+    font-size: 75px;
+    color: deepskyblue;
+}
+
+.top-info {
+    display: flex;
+    border-radius: 30px;
+    background-color: aquamarine;
+}
+
+.top-info-div {
+    flex: auto;
+}
